@@ -55,6 +55,10 @@ void init(uint8_t addr);
  */
 uint8_t analogRead(uint8_t channel, uint8_t readType = SINGLE_ENDED_INPUT);
 
+```
+
+
+
 ## Compatibility
 
 MCU                | Work Well | Work Wrong | Untested  | Remarks
